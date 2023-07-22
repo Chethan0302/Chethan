@@ -21,9 +21,13 @@ I’m currently learning 📚
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chethan0302&" alt="chethan0302" /></p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chethan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan02" height="30" width="40" /></a>
-<a href="https://instagram.com/_.c.h.ethan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.c.h.ethan_" height="30" width="40" /></a>
+  <a href="mailto:chethans4667@gmail.com"><img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
+  <br>
+  <br>
+<a href="https://linkedin.com/in/chethan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan02" height="30" width="40" />LinkedIn</a>
+  <br>
+  <br>
+<a href="https://instagram.com/_.c.h.ethan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.c.h.ethan_" height="30" width="40" />Instagram</a>
 </p>
 <img src="./213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
