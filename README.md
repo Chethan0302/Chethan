@@ -27,7 +27,7 @@ I’m currently learning 📚
 - **React.js**
 - **Node.js**
 ### Projects
-- <a href="https://chethan0302.github.io/Guess_Number/" style="text-decoration: none;">Number Guessing game 👈</a>
+[Number Guessing game 👈](https://chethan0302.github.io/Guess_Number/)
 ### My Stats 🔥
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chethan0302&label=Profile%20views&color=0e75b6&style=flat" alt="chethan0302" /> </p>
 
