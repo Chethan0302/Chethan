@@ -26,7 +26,7 @@ I’m currently learning 📚
 - **Express.js**
 - **React.js**
 - **Node.js**
-- 
+  
 ### Projects
 - [Number Guessing game 👈](https://chethan0302.github.io/Guess_Number/)
 - [Weather App ☁️](https://chethan0302.github.io/Weather-App/)
