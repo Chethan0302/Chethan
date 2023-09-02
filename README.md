@@ -29,6 +29,7 @@ I’m currently learning 📚
 - 
 ### Projects
 - [Number Guessing game 👈](https://chethan0302.github.io/Guess_Number/)
+- [Weather App ☁️](https://chethan0302.github.io/Weather-App/)
   
 ### My Stats 🔥
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chethan0302&label=Profile%20views&color=0e75b6&style=flat" alt="chethan0302" /> </p>
