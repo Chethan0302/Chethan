@@ -16,7 +16,7 @@
 
 
 I’m currently working on 🔭 
-- **Responsive websites using MERN tech**
+- **Websites using MERN tech**
 
 I’m looking to collaborate on 👯 
 - **App development projects**
