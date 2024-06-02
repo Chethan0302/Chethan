@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Chethan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate developer 💻</h3>
-<img src="./Linkedin banner.png" alt="banner" width="40" height="40"/>
+<img src="./Linkedin banner.png" alt="banner" width="1584" height="396"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
