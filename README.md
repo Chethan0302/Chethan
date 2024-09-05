@@ -28,17 +28,17 @@ I’m currently learning 📚
   
 ### Projects
 - [Natours 🌳](https://natours-f8h4.onrender.com/)
-- [Climate Clues ☁️](https://chethan0302.github.io/Climate-Clues/)
+- [Climate Clues ☁️](https://chethans-dev.github.io/Climate-Clues/)
 - [Convohub 💬](https://convohub-aowu.onrender.com/)
   
 ### My Stats 🔥
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chethan0302&label=Profile%20views&color=0e75b6&style=flat" alt="chethan0302" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethans-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chethans-dev" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chethan0302&show_icons=true&locale=en&layout=compact" alt="chethan0302" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethans-dev&show_icons=true&locale=en&layout=compact" alt="chethans-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chethan0302&show_icons=true&locale=en" alt="chethan0302" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chethans-dev&show_icons=true&locale=en" alt="chethans-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chethan0302&" alt="chethan0302" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chethans-dev&" alt="chethans-dev" /></p>
 <h3 align="left">Connect with me:</h3>
   <a href="mailto:chethans4667@gmail.com"><img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
   <br>
